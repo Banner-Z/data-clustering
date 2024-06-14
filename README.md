@@ -1,5 +1,5 @@
 # data-clustering
-a simple repository for unsupervised clustering based on sentence embeddings
+a repository for unsupervised clustering based on sentence embeddings
 
 ## Quick Start
 The main pipe of our repository is `prepare` --> `clustering` --> `sampling`.
